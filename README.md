@@ -1,2 +1,3 @@
-# git-submission-demo-lab
-Demo Lab for Git Submission
+# Demo Lab for Git Submission
+
+This lab can be used as a template for Git submission for Autolab
